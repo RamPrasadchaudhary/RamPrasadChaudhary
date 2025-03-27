@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: 
   - Email: ramprasadc331@gmail.com
-  - LinkedIn: [Ram Prasad Chaudhary](https://www.linkedin.com/in/ramprasadchaudhary)
+  - LinkedIn: [Ram Prasad Chaudhary]([https://www.linkedin.com/in/ramprasadchaudhary)](https://www.linkedin.com/in/ram-prasad-chaudhary-312221251/)
   - GitHub: [RamPrasadchaudhary](https://github.com/RamPrasadchaudhary)
 
 - ⚡ Fun fact: I love exploring new technologies and often spend my weekends tinkering with DIY electronics projects.
