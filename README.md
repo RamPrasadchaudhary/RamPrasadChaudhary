@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/githubBanner.png)
+
 
 <h1 align="center">Hi 👋, I'm Ram Prasad Chaudhary</h1>
 <h3 align="center">A passionate Web Developer</h3>
