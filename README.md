@@ -1,5 +1,3 @@
-# GitHub Profile ReadMe
-
 ![GitHub Banner](https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/githubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Ram Prasad Chaudhary</h1>
@@ -7,7 +5,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/New%20Doc%2008-03-2024%2018.05.jpg" alt="Profile View" width="200" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/> </p>
+<p align="left">
+  <img src="https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/New%20Doc%2008-03-2024%2018.05.jpg" alt="Profile View" width="200" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
+</p>
 
 - 🔭 I’m currently working on various exciting projects in software development and data science.
 
