@@ -13,7 +13,7 @@
 - 💬 Ask me about *HTML, CSS, JavaScript, Python, and data analysis*
 
 - 📫 How to reach me: 
-  - Email: ramprasadchaudhary@example.com
+  - Email: ramprasadc331@gmail.com
   - LinkedIn: [Ram Prasad Chaudhary](https://www.linkedin.com/in/ramprasadchaudhary)
   - GitHub: [RamPrasadchaudhary](https://github.com/RamPrasadchaudhary)
 
