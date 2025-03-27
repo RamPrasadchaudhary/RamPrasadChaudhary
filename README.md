@@ -13,16 +13,16 @@
 - 💬 Ask me about *HTML, CSS, JavaScript, Python, and data analysis*
 - 📫 How to reach me: 
   - Email: [ramprasadc331@gmail.com](mailto:ramprasadc331@gmail.com)
-  - LinkedIn: [Ram Prasad Chaudhary](https://www.linkedin.com/in/ramprasadchaudhary)
+  - LinkedIn: [Ram Prasad Chaudhary](https://www.linkedin.com/in/ram-prasad-chaudhary-312221251/)
   - GitHub: [RamPrasadchaudhary](https://github.com/RamPrasadchaudhary)
 - ⚡ Fun fact: I love exploring new technologies and often spend my weekends tinkering with DIY electronics projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ramprasadchaudhary" target="blank">
+  <a href="https://www.linkedin.com/in/ram-prasad-chaudhary-312221251/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramprasadchaudhary" height="30" width="40" />
   </a>
-  <a href="[https://fb.com/ramprasadchaudhary](https://www.facebook.com/profile.php?id=100067719887281)" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100067719887281" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" href=""alt="ramprasadchaudhary" height="30" width="40" />
   </a>
 </p>
