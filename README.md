@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/New%20Doc%2008-03-2024%2018.05.jpg">
 
-<p align="left"> <img src="https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/New%20Doc%2008-03-2024%2018.05.jpg" alt="Profile View" width="200"/> </p>
+<p align="left"> <img src="https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/New%20Doc%2008-03-2024%2018.05.jpg" alt="Profile View" radius="100%" width="200"/> </p>
 
 - 🔭 I’m currently working on various exciting projects in software development and data science.
 
