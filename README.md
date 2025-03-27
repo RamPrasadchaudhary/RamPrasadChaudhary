@@ -1,4 +1,4 @@
-![logo](https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/githubBanner.png)
+![logo](https://github.com/RamPrasadchaudhary/RamPrasadChaudhary/blob/main/githubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Ram Prasad Chaudhary</h1>
 <h3 align="center">A passionate Web Developer</h3>
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
 - 💬 Ask me about *HTML, CSS, JavaScript, Python, and data analysis*
 - 📫 How to reach me: 
-  - Email: [ramprasadchaudhary@example.com](mailto:ramprasadchaudhary@example.com)
+  - Email: [ramprasadc331@gmail.com](mailto:ramprasadc331@gmail.com)
   - LinkedIn: [Ram Prasad Chaudhary](https://www.linkedin.com/in/ramprasadchaudhary)
   - GitHub: [RamPrasadchaudhary](https://github.com/RamPrasadchaudhary)
 - ⚡ Fun fact: I love exploring new technologies and often spend my weekends tinkering with DIY electronics projects.
