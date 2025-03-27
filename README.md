@@ -34,23 +34,26 @@
 
 ---
 
-## Current Work
-- Describe your current projects and roles.
-
----
 
 ## Skills
 Briefly describe your core skills and expertise.
 
 ---
 
-## Projects
-### Project Name
-- Brief description of the project.
-- Technologies used: List of technologies.
-- [Link to project](#)
+## Current Work
+- 🔭 I’m currently working on various exciting projects in software development and data science.
+- 🌱 My focus areas include advanced machine learning techniques and cloud computing.
+- 🛠️ Actively contributing to open-source projects and collaborating with the developer community.
+- 💡 Exploring new technologies and continuously improving my skill set.
 
 ---
+
+## Projects
+### [RamPrasadChaudhary](https://github.com/RamPrasadchaudhary/RamPrasadChaudhary)
+- This repository is a showcase of my personal projects and contributions.
+- It includes various web development and data science projects.
+- Technologies used: HTML, CSS, JavaScript, Python, and more.
+- [Link to project](https://github.com/RamPrasadchaudhary/RamPrasadChaudhary)
 
 ## Connect with Me
 <p align="left">
