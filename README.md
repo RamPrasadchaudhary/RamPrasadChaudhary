@@ -34,17 +34,20 @@
 
 ---
 
-
-## Skills
-Briefly describe your core skills and expertise.
-
----
-
 ## Current Work
 - 🔭 I’m currently working on various exciting projects in software development and data science.
 - 🌱 My focus areas include advanced machine learning techniques and cloud computing.
 - 🛠️ Actively contributing to open-source projects and collaborating with the developer community.
 - 💡 Exploring new technologies and continuously improving my skill set.
+
+---
+
+## Skills
+- **Programming Languages**: HTML, CSS, JavaScript, Python, TypeScript
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express
+- **Databases**: MongoDB, MySQL, Firebase
+- **DevOps Tools**: Docker, Kubernetes, AWS
+- **Other Skills**: Data Analysis, Machine Learning, Cloud Computing
 
 ---
 
@@ -54,6 +57,8 @@ Briefly describe your core skills and expertise.
 - It includes various web development and data science projects.
 - Technologies used: HTML, CSS, JavaScript, Python, and more.
 - [Link to project](https://github.com/RamPrasadchaudhary/RamPrasadChaudhary)
+
+---
 
 ## Connect with Me
 <p align="left">
