@@ -1,7 +1,8 @@
-![logo](https://github.com/RamPrasadchaudhary/RamPrasadChaudhary/blob/main/githubBanner.png)
+
 
 <h1 align="center">Hi 👋, I'm Ram Prasad Chaudhary</h1>
 <h3 align="center">A passionate Web Developer</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> 
@@ -28,11 +29,9 @@
 </p>
 
 <div align="center" style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
-  <h1>Welcome to My GitHub Profile!</h1>
-  <p>Hi! I'm Ram Prasad Chaudhary, a passionate developer who loves working with various technologies.</p>
   <h2>Technologies I Use</h2>
   <p>Here are some of the technologies I work with:</p>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
     </a>
