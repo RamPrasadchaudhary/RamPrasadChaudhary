@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ram Prasad Chaudhary</h1>
 <h3 align="center">A passionate Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/New%20Doc%2008-03-2024%2018.05.jpg">
 
 <p align="left"> <img src="https://github.com/RamPrasadchaudhary/RamPrasadchaudhary/blob/main/New%20Doc%2008-03-2024%2018.05.jpg" alt="Profile View" width="200"/> </p>
 
